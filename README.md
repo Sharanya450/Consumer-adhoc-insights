@@ -3,7 +3,7 @@ This repository contains the solutions for the Codebasics SQL Challenge. Below i
 
 ## Challenge Overview
 
-* ####List of Markets for "Atliq Exclusive" in the APAC Region: This query fetches all the markets where the customer "Atliq Exclusive" operates within the APAC region.
+* #### List of Markets for "Atliq Exclusive" in the APAC Region: This query fetches all the markets where the customer "Atliq Exclusive" operates within the APAC region.
 
 * Unique Product Increase (2021 vs. 2020): This query calculates the percentage increase in unique products between the years 2020 and 2021. The output contains: unique_products_2020: Number of unique products in 2020. unique_products_2021: Number of unique products in 2021. percentage_chg: The percentage increase.
 
